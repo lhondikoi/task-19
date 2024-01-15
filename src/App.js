@@ -7,7 +7,7 @@ import Home from './views/Home'
 import BookManagement from './views/BookManagement';
 import AuthorManagement from './views/AuthorManagement';
 
-import './app.css'
+import './styles/app.css'
 
 export default function App() {
   const template_book = {
