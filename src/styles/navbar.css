@@ -1,0 +1,22 @@
+.dashboard-left {
+    border-right: 1px solid lightgrey;
+}
+
+.nav-links-container {
+    padding: 15px 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-link {
+    display: grid;
+    place-items: center left;
+    height: 45px;
+    padding-left: 20px;
+    color: #333;
+    border-radius: 8px;
+}
+
+.nav-link:hover {
+    background: #eee;
+}

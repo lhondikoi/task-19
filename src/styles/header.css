@@ -1,0 +1,11 @@
+.header-container {
+    background-color: #2196f3;
+    height: 50px;
+
+    display: grid;
+    place-items: center;
+}
+
+.header-container a {
+    color: #fff;
+}
